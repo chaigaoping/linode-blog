@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock "3.8.0"
 
-set :application, "my_app_name"
+set :application, "linode-blog"
 set :repo_url, "git@github.com:chaigaoping/linode-blog.git"
 
 # Default branch is :master
